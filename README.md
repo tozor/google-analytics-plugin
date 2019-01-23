@@ -15,7 +15,7 @@ Prerequisites:
 
 This plugin follows the Cordova 3.0+ plugin spec, so it can be installed through the Cordova CLI in your existing Cordova project:
 ```bash
-cordova plugin add https://github.com/danwilson/google-analytics-plugin.git
+cordova plugin add https://github.com/tozor/google-analytics-plugin.git
 ```
 
 This plugin is also available on npm if you are using Cordova 5.0+:
